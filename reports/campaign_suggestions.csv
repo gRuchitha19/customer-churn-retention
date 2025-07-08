@@ -1,0 +1,11 @@
+Churn_Risk,Segment,Strategy
+0.5953409668885227,New Customer,Onboarding Call + Welcome Discount
+0.04965256090184962,Regular,No Action Needed
+0.32644084580819277,New Customer,Onboarding Call + Welcome Discount
+0.028289953079628217,Regular,No Action Needed
+0.6706703006572131,New Customer,Onboarding Call + Welcome Discount
+0.7663323533462844,Regular,Send Promotional Email
+0.5279387713030452,High-Value,Offer Loyalty Bonus or Premium Upgrade
+0.3420194512850519,Low-Value,Send Feedback Survey
+0.5730571480387299,High-Value,Offer Loyalty Bonus or Premium Upgrade
+0.010393418706173533,Regular,No Action Needed
