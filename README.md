@@ -1,12 +1,3 @@
-### ✅ Here’s Exactly What to Do:
-
-1. **Open** `README.md` in your VS Code
-2. **Select all** existing text (if any) and **delete it**
-3. **Copy the full content below** 👇 and **paste** it into the file
-4. **Save** the file (Ctrl + S)
-
-### 📋 Copy and Paste This into `README.md`:
-
 # Customer Churn Prediction and Retention System
 
 This project predicts which insurance customers are likely to churn and recommends targeted retention strategies to reduce cancellations.
@@ -67,9 +58,3 @@ python campaign.py
 ## 📊 Dataset
 
 * [Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-
-## 💡 Future Improvements
-
-* Deploy as API (Flask/FastAPI)
-* Add seasonal churn analysis
-* Visual dashboard (Streamlit or Dash)
